@@ -2,6 +2,8 @@
 This is a guide to setup openocd_rsicv for the OpenOCD remote-bitbang.
 Main openocd_riscv repo can be followed to set everything up.
 
+Motive is to help resolve issues that rises during the setup from main repo
+
 ## Steps
 **1. Installing dependencies**
 At point of setup, ubuntu OS used.
